@@ -7,7 +7,7 @@ Previously led product at **Flipkart** and a US-based healthcare startup. Founde
 
 ### 🧠 What I Do
 - 🏥 Built end-to-end EMR and insurance tech products for US clinics at SPRY
-- 🕹️ Launched AR-powered multiplayer gaming and ad platforms at Flipkart
+- 🕹️ Launched AR-powered and multiplayer gaming platforms at Flipkart
 - 🤖 Shipped AI-powered tools like benefits verification engine and AI Scribe
 - 🌐 Built open-source decentralized LLM infra project with IPFS node discovery
 - 📊 Worked hands-on in product strategy, GTM, compliance (HIPAA), and analytics
