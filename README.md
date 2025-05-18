@@ -21,9 +21,14 @@ Previously led product at **Flipkart** and a US-based healthcare startup. Founde
 ---
 
 ### 🧪 Side Projects
-- 🧠 Built a real-time stock prediction engine using PySpark + Twitter data
-- 📦 Developed Chrome Extension for guided in-app onboarding using JSON events
-- 🛠️ Created B2B procurement platform connecting manufacturers & buyers
+- 🔄 **Data Storage & File Transfer Platform** (2015–2020):  
+  Enabled instant transfer of large files over a distributed network using **IPFS** and **tit-for-tat** strategy for bandwidth fairness.
+
+- 🧠 **Decentralized LLM Infrastructure**:  
+  Built an open-source network for running and querying LLMs across peer nodes using **FastAPI**, **IPFS**, and **HuggingFace Transformers**. Enables censorship-resistant, serverless AI inference.
+
+- 📦 **Chrome Extension for Guided Onboarding**:  
+  Developed an extension to record and replay feature flows using JSON-based event capture, helping SaaS users with interactive walkthroughs.
 
 ---
 
