@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### 👋 Hi there, I'm Sagar Pawar!
 
 🚀 **Senior Product Manager** passionate about building AI-powered, user-centric products across **fintech**, **healthtech**, and **gaming**.  
