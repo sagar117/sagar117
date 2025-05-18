@@ -15,8 +15,8 @@ Previously led product at **Flipkart** and a US-based healthcare startup. Founde
 ---
 
 ### 🛠 Tech & Tools I Work With
-`Java` `Node.js` `Python` `MongoDB` `FastAPI` `React` `AWS` `Docker`  
-`LLMs` `Prompt Engineering` `LangChain` `Superset` `PostgreSQL` `Jira` `Mixpanel`
+`Java` `Node.js` `Python` `MongoDB` `Android Studio` `FastAPI` `React` `AWS` `Docker`  
+`LLMs` `Prompt Engineering` `n8n` `LangChain` `Cursor` `Superset` `PostgreSQL` `Jira` `Mixpanel`
 
 ---
 
